@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kiran%20Shahid&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer%20%7C%20Microservices%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kiran%20Shahid&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Backend-Focused+Developer+%F0%9F%92%BB;Node.js+%7C+Python+%7C+Kafka+%7C+Kubernetes;Building+Scalable+Distributed+Systems;Open+Source+Contributor+%F0%9F%8C%90;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Backend-Focused+Developer+%F0%9F%92%BB;Node.js+%7C+Python+%7C+Kafka+%7C+Kubernetes;Building+Scalable+Distributed+Systems;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,7 +37,7 @@ focus: ["Backend Engineering", "Distributed Systems", "Microservices Architectur
 philosophy: "Build resilient, event-driven systems that scale ship with intention, iterate with data."
 ```
 
-I'm a **backend-focused Full Stack Developer** with 2+ years of experience designing and maintaining **high-performance, real-time distributed systems**. My work centers on **microservices architecture**, **event-driven design with Apache Kafka**, and **container orchestration with Kubernetes** paired with the ability to bridge robust server-side systems with modern frontend interfaces using Next.js and Vue.js.
+I'm a **backend-focused Full Stack Developer** with 3 years of experience designing and maintaining **high-performance, real-time distributed systems**. My work centers on **microservices architecture**, **event-driven design with Apache Kafka**, and **container orchestration with Kubernetes** paired with the ability to bridge robust server-side systems with modern frontend interfaces using Next.js and Vue.js.
 
 I care about systems that stay reliable under load, services that scale independently without breaking each other, and clean API contracts between teams. I'm currently exploring **open-source contribution** as a way to keep building, keep learning, and connect with projects and teams beyond my past roles.
 
