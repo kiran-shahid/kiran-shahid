@@ -189,22 +189,10 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiran-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B388FF&icon_color=9D4EDD&text_color=E0AAFF" width="49%" />
 <img src="https://streak-stats.demolab.com?user=kiran-shahid&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=B388FF&currStreakLabel=E0AAFF" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-shahid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B388FF&text_color=E0AAFF" width="50%" />
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-shahid&theme=react-dark&hide_border=true&bg_color=0D1117&color=B388FF&line=9D4EDD&point=E0AAFF" width="95%" />
 
 </div>
 
