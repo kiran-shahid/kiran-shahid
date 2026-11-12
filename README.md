@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Pakistan-6A0DAD?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-6A0DAD?style=flat-square&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Distributed%20Systems-7B2CBF?style=flat-square&logo=code&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-9D4EDD?style=flat-square&logo=handshake&logoColor=white" />
 
@@ -14,7 +14,6 @@
 
 <a href="https://www.linkedin.com/in/kiran-shahid-47a962236"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=B388FF" /></a>
 <a href="mailto:kiranshahid889@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=E0AAFF" /></a>
-<a href="https://kiran-shahid.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=B388FF" /></a>
 
 </div>
 
@@ -171,13 +170,22 @@ building:
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kiran-shahid/kiran-shahid/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+---
+
 ### 📬 Connect With Me
 
 <div align="center">
 
 <a href="mailto:kiranshahid889@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=E0AAFF" /></a>
 <a href="https://www.linkedin.com/in/kiran-shahid-47a962236"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=B388FF" /></a>
-<a href="https://kiran-shahid.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=E0AAFF" /></a>
 
 </div>
 
