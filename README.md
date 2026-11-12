@@ -50,7 +50,7 @@ My work at c2o and Techchaps is in private repositories, so most of it isn't lin
 | Microservices backend for a SaaS product | c2o | Spring Boot, Node.js, Kafka, Kubernetes, Next.js | Private |
 | eCommerce authentication module | Techchaps | Node.js, SMTP, Supabase | Private |
 | ML API endpoints | Techchaps | FastAPI, Python, OpenAPI | Private |
-| Skin disease identification & recommender portal | Final year project | Django, Python, machine learning | Add link once public |
+| Skin disease identification & recommender portal | Final year project | Django, Python, machine learning 
 
 <!--
 UNCOMMENT THIS SECTION ONCE YOU HAVE REAL ENTRIES. List only merged or open PRs.
