@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kiran%20Shahid&fontSize=54&fontColor=E0AAFF&animation=fadeIn&fontAlignY=40&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=62&descSize=18" />
 
-<a href="https://www.linkedin.com/in/kiran-shahid-47a962236"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=B388FF" /></a>
+<a href="https://www.linkedin.com/in/kiran--shahid"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=B388FF" /></a>
 <a href="mailto:kiranshahid889@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=E0AAFF" /></a>
 
 </div>
