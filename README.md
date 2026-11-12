@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kiran%20Shahid&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Backend-Focused+Developer+%F0%9F%92%BB;Node.js+%7C+Python+%7C+Kafka+%7C+Kubernetes;Building+Scalable+Distributed+Systems;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Backend-Focused+Developer+%F0%9F%92%BB;Node.js+%7C+Python+%7C+Kafka+%7C+Kubernetes;Building+Scalable+Distributed+Systems;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -16,12 +14,7 @@
 
 <a href="https://www.linkedin.com/in/kiran-shahid-47a962236"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=B388FF" /></a>
 <a href="mailto:kiranshahid889@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=E0AAFF" /></a>
-<a href="https://github.com/kiran-shahid"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=B388FF" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kiran-shahid&style=flat-square&color=7B2CBF&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/kiran-shahid?style=flat-square&color=6A0DAD&label=Followers&logo=github" />
+<a href="https://kiran-shahid.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=B388FF" /></a>
 
 </div>
 
@@ -32,12 +25,12 @@
 ```yaml
 name: "Kiran Shahid"
 role: "Full Stack Developer (Backend Focused)"
-location: "Rawalpindi, Pakistan"
+location: "Islamabad, Pakistan"
 focus: ["Backend Engineering", "Distributed Systems", "Microservices Architecture"]
-philosophy: "Build resilient, event-driven systems that scale ship with intention, iterate with data."
+philosophy: "Build resilient, event-driven systems that scale; ship with intention, iterate with data."
 ```
 
-I'm a **backend-focused Full Stack Developer** with 3 years of experience designing and maintaining **high-performance, real-time distributed systems**. My work centers on **microservices architecture**, **event-driven design with Apache Kafka**, and **container orchestration with Kubernetes** paired with the ability to bridge robust server-side systems with modern frontend interfaces using Next.js and Vue.js.
+I'm a **backend-focused Full Stack Developer** with 3 years of experience designing and maintaining **high-performance, real-time distributed systems**. My work centers on **microservices architecture**, **event-driven design with Apache Kafka**, and **container orchestration with Kubernetes**, paired with the ability to bridge robust server-side systems with modern frontend interfaces using Next.js and Vue.js.
 
 I care about systems that stay reliable under load, services that scale independently without breaking each other, and clean API contracts between teams. I'm currently exploring **open-source contribution** as a way to keep building, keep learning, and connect with projects and teams beyond my past roles.
 
@@ -48,6 +41,7 @@ I care about systems that stay reliable under load, services that scale independ
 **🟣 Open To**
 - Backend / Platform Engineering roles
 - Distributed Systems & Infrastructure opportunities
+- Remote opportunities
 - Open Source collaboration
 - Technical mentorship & pair programming
 
@@ -69,7 +63,7 @@ I care about systems that stay reliable under load, services that scale independ
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,vue,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,vue&theme=dark" />
 
 **DevOps & Cloud**
 
@@ -83,7 +77,7 @@ I care about systems that stay reliable under load, services that scale independ
 
 ### 🚀 Professional Work
 
-Most of my hands-on backend and systems work lives inside **private organization codebases** — production microservices, event-driven services, and infra I don't have public repo links for. Here's what that work involved:
+Most of my hands-on backend and systems work lives inside **private organization codebases** (production microservices, event-driven services, and infrastructure), so I don't have public repo links for it. Here's what that work involved:
 
 <details>
 <summary><b>🏗️ Production Microservices Architecture — c2o</b></summary>
@@ -95,7 +89,7 @@ Designed and maintained a production-grade microservices architecture powering r
 |---|---|
 | **Stack** | Spring Boot, Node.js, Apache Kafka, Next.js, Kubernetes |
 | **Architecture** | Independently scalable, fault-tolerant microservices with event-driven communication via Kafka |
-| **Infra** | On-premise Kubernetes clusters on Linux VMs — resource allocation & reliability across production environments |
+| **Infra** | On-premise Kubernetes clusters on Linux VMs: resource allocation & reliability across production environments |
 | **Repository** | *Private (organization codebase)* |
 
 </details>
@@ -132,14 +126,13 @@ RESTful FastAPI endpoints for AI/ML functionality, fully documented with Swagger
 
 ML-powered full-stack web app that identifies skin diseases and gives personalized, condition-specific recommendations.
 
+<!-- TODO: once this repo is public, add a row: | **Repository** | [link](https://github.com/kiran-shahid/REPO-NAME) | -->
+
 | Category | Details |
 |---|---|
 | **Stack** | Django, Python, Machine Learning |
-| **Repository** | *[add your repo link here if you have this pushed publicly]* |
 
 </details>
-
-> Since your production work is private, your public GitHub activity will mostly build up through **open-source contributions** going forward — that's what will actually be visible here.
 
 ---
 
@@ -162,8 +155,6 @@ ML-powered full-stack web app that identifies skin diseases and gives personaliz
 - Built FastAPI endpoints for AI/ML functionalities with full Swagger documentation
 - Developed the frontend for a tech website using Vue.js
 
-`Python` `FastAPI` `Django` `Node.js` `Java` `Spring Boot` `Kafka` `WebSockets` `Next.js` `Vue.js` `TypeScript` `Docker` `Kubernetes` `Redis` `PostgreSQL` `MongoDB` `MySQL` `Supabase` `Git`
-
 ---
 
 ### 🎯 Current Focus
@@ -176,37 +167,7 @@ learning:
 building:
   - Open-source contributions in the Node.js/Kafka/Kubernetes ecosystem
   - A stronger public portfolio of backend/infra work
-
-open_to:
-  - Backend / Platform Engineering roles
-  - Remote opportunities
-  - Meaningful open-source collaboration
 ```
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kiran-shahid&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=B388FF&currStreakLabel=E0AAFF" width="49%" />
-
-<br/>
-
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kiran-shahid/kiran-shahid/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-</div>
-
-> This animated snake needs a small one-time setup — a GitHub Action that runs on your `kiran-shahid/kiran-shahid` repo and generates the SVG automatically. Setup steps are below.
 
 ---
 
@@ -216,7 +177,7 @@ open_to:
 
 <a href="mailto:kiranshahid889@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=E0AAFF" /></a>
 <a href="https://www.linkedin.com/in/kiran-shahid-47a962236"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=B388FF" /></a>
-<a href="https://github.com/kiran-shahid"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=E0AAFF" /></a>
+<a href="https://kiran-shahid.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=E0AAFF" /></a>
 
 </div>
 
