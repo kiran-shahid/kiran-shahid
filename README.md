@@ -15,7 +15,11 @@ I'm looking for backend or platform engineering roles (remote is fine), and I'm 
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,nodejs,spring,fastapi,nextjs,kafka,kubernetes,docker,postgres,redis,linux&theme=dark" alt="Python, Java, TypeScript, Node.js, Spring Boot, FastAPI, Next.js, Kafka, Kubernetes, Docker, PostgreSQL, Redis, Linux" />
+- **Languages:** Python, Java, TypeScript, JavaScript
+- **Backend:** Node.js, Spring Boot, FastAPI, Django
+- **Messaging & infrastructure:** Apache Kafka, Kubernetes, Docker, Redis, Linux
+- **Databases:** PostgreSQL, MongoDB, Supabase
+- **Frontend:** Next.js, Vue.js
 
 ## Experience
 
@@ -50,7 +54,7 @@ My work at c2o and Techchaps is in private repositories, so most of it isn't lin
 | Microservices backend for a SaaS product | c2o | Spring Boot, Node.js, Kafka, Kubernetes, Next.js | Private |
 | eCommerce authentication module | Techchaps | Node.js, SMTP, Supabase | Private |
 | ML API endpoints | Techchaps | FastAPI, Python, OpenAPI | Private |
-| Skin disease identification & recommender portal | Final year project | Django, Python, machine learning 
+| Skin disease identification & recommender portal | Final year project | Django, Python, machine learning | Add link once public |
 
 <!--
 UNCOMMENT THIS SECTION ONCE YOU HAVE REAL ENTRIES. List only merged or open PRs.
@@ -62,3 +66,6 @@ UNCOMMENT THIS SECTION ONCE YOU HAVE REAL ENTRIES. List only merged or open PRs.
 | [owner/repo](https://github.com/owner/repo) | One line describing the fix or feature | [#123](https://github.com/owner/repo/pull/123), merged |
 -->
 
+## Contributions
+
+<img src="https://ghchart.rshah.org/9D4EDD/kiran-shahid" alt="Kiran Shahid's GitHub contribution graph" width="100%" />
