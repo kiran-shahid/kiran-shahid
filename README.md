@@ -65,7 +65,3 @@ UNCOMMENT THIS SECTION ONCE YOU HAVE REAL ENTRIES. List only merged or open PRs.
 |---|---|---|
 | [owner/repo](https://github.com/owner/repo) | One line describing the fix or feature | [#123](https://github.com/owner/repo/pull/123), merged |
 -->
-
-## Contributions
-
-<img src="https://ghchart.rshah.org/9D4EDD/kiran-shahid" alt="Kiran Shahid's GitHub contribution graph" width="100%" />
